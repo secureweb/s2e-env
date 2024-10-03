@@ -153,10 +153,10 @@ dependencies:
 
 # S2E Git repos
 repos:
-    url: https://github.com/S2E
+    url: https://github.com/secureweb
 
     # Names of git repositories
-    s2e: manifest
+    s2e: s2e-manifest
     images:
         # Normally, guest-images and s2e-linux-kernel is handled by repo, but we
         # still need to check it out manually when using binary-only installations.
